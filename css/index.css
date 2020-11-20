@@ -1,0 +1,36 @@
+nav {
+  height: 50px;
+  background-color: lightgray;
+  padding: 3px;
+  margin: auto;
+}
+.inline-block {
+  padding: 15px;
+  margin: 1px;
+  display: inline-block;
+  background-color: darkgrey;
+}
+.left {
+  float: left;
+  height: 500px;
+  background-color: blue;
+  width: 29%;
+  text-align: center;
+}
+.right {
+  float: left;
+  background-color: green;
+  height: 500px;
+  width: 70%;
+  text-align: center;
+}
+
+.card {
+  display: inline-block;
+  background-color: #C6C6C6;
+  border-radius: 5px;
+  height: 200px;
+  width: 150px;
+  margin: 35px;
+  margin-top: 50px;
+}
